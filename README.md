@@ -4,7 +4,7 @@ Ekstensi Chrome untuk mengambil Bearer Token secara otomatis.
 
 ## 📥 Download & Instalasi
 1. **Download** file ekstensi dalam format `.rar`.
-2. **Ekstrak** file `.rar`
+2. **Ekstrak** file `.rar`.
 3. **Buka Chrome** dan masuk ke `chrome://extensions/`.
 4. **Centang** opsi `Developer Mode` di pojok kanan atas.
 5. **Klik** tombol `Load Unpacked`.
@@ -18,7 +18,9 @@ Ekstensi Chrome untuk mengambil Bearer Token secara otomatis.
 4. **Tekan tombol "Copy"** untuk menyalin token (tanpa "Bearer").
 5. **Gunakan token** sesuai kebutuhan.
 
+## Traktir Kopinya & Thanks for Supporting us:
+[Trakteer](https://trakteer.id/Winsnipsupport/tip)
+
 ---
 
 **Created by Winsnip**
-
